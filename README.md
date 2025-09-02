@@ -23,4 +23,4 @@
 <h2 align="left">:heart: Let's Connect:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AhmedOsama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-daramally)](https://www.linkedin.com/in/ahmed-daramally)  
-[![GitHub Badge](https://img.shields.io/badge/-AhmedOsama-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/your-github)](https://github.com/your-github)
+[![GitHub Badge](https://img.shields.io/badge/-AhmedOsama-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/Ahmed-Daramally)](https://github.com/Ahmed-Daramally)
